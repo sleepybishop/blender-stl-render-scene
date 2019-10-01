@@ -5,6 +5,9 @@ If you want to use this heart it, forkt it, like it ;). If you render cool stuff
 
 There is a scene for larger objects `render-20x20.blend`, and one for smaller object `render-10x10.blend`.
 
+![render-10x10.blend](./result.png)
+
+
 ## How to use
 
 **1.** Open the respective blender file from the command line from this repositories folder with
@@ -13,7 +16,7 @@ There is a scene for larger objects `render-20x20.blend`, and one for smaller ob
 blender render-20x20.blend
 ```
 
-**2.** Import an `.stl` file and select it.
+**2.** Import an `.stl` file and select it (it usually is after importing).
 
 Run the script `render-pipeline.py` inside blender. This will
 
