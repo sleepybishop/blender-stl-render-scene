@@ -10,6 +10,8 @@ There is a scene for larger objects `render-20x20.blend`, and one for smaller ob
 
 ## How to use
 
+**Please use Blender > 2.80**
+
 **1.** Open the respective blender file from the command line from this repositories folder with
 
 ```
