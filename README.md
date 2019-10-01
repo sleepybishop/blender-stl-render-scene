@@ -1,4 +1,4 @@
-# blender-stl-render-scene
+# @pauls_3d_things STL render file
 A scene I use to render STL files.
 
 If you want to use this heart it, forkt it, like it ;). If you render cool stuff tag me on Instagram ;) [https://instagram.com/pauls_3d_things](https://instagram.com/pauls_3d_things)
